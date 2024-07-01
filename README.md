@@ -1,1 +1,1 @@
-# Titanic-Survival-Prediction
+I have completed the project on the topic "Titanic Survival Prediction" under the guidance of Bharat Intern. Titanic_Survival_Prediction.ipynb consists of the code of the model to predict the survival of people during the Titanic accident based on their gender, age, Pclass, fare etc. The model returns 0 if the person does not survive and returns 1 if the person survives. The output of the model is displayed in the form of a website which is created using flask.
